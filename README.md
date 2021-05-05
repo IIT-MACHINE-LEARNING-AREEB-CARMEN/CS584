@@ -1,2 +1,2 @@
-# CS584
-Music Genre Classificaiton
+# Music Genre Classification
+
