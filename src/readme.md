@@ -1,6 +1,6 @@
 In this folder we added the codes to do feature extraction, build and train models and a demo script.
 
-DEMO.ipynb: 
+A. DEMO.ipynb: 
 - the user have to define the variable model_path with the path to the .sav file of the selected model
 The demo follows the next steps:
 1. Import necessary libraries
@@ -10,7 +10,7 @@ The demo follows the next steps:
 5. Perform feature extraction (MFCCs)
 6. Evaluate the song and plot the results. 
 
-ML - Visual Comparison + Audio feature Extraction + Build and Train Classical Models + Classification Repports.ipynb: 
+B. ML - Visual Comparison + Audio feature Extraction + Build and Train Classical Models + Classification Repports.ipynb: 
 - the user has to be careful to change all the variables that lead to the files.
 
 This scripys follows the next steps:
@@ -23,3 +23,4 @@ This scripys follows the next steps:
   b. Train and save models
   c. Select saved model and plot results (Confussion Matrix and Classification Report)
   
+C. 
