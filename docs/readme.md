@@ -15,4 +15,4 @@ B. The middle report project file, named 'MACHINE_LEARNING_PROJECT__MUSIC'. This
 5. Model bulidng
 6. Final Results
 
-C. The final project file, named ''. This file is organized as the previous one.
+C. The final project file, named 'ML_final_report'. This file is organized as the previous one with some extra additions.
