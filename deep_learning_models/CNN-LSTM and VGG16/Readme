@@ -1,7 +1,7 @@
 Steps of Execution:
-Read_File.py : This file perform reading the audio files with labels corresponding to number of genres.
+Input_Rad.py : This file perform reading the audio files with labels corresponding to number of genres.
 
-Audio_Segment.py : This file perform clipping of audio into small segment/clip of duration depending on window size and overlap.
+Segment_Audio.py : This file perform clipping of audio into small segment/clip of duration depending on window size and overlap.
 
 Feature_Extraction.py : This file contain feature extraction techniques (STFT, Melspectrogram and MFCC). Whichever you want to extract, just change the name of the function 'to_stft' instead.
 
