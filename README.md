@@ -17,7 +17,7 @@ The repository is organized as follows:
   d. Final report
 2. references folder contains:
   a. some papers (the public ones) used as reference in the project
-3. src folder contais
+3. src folder contains
   a. demo.ipynb 
   b. feature visualization + MFCC feature extraction + build, train save and plot results on classical models
 4. trained_models contains: 
