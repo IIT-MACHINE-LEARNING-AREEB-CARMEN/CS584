@@ -20,6 +20,6 @@ The repository is organized as follows:
 3. src folder contains
   a. demo.ipynb 
   b. feature visualization + MFCC feature extraction + build, train save and plot results on classical models
-4. trained_models contains: 
+4. trained_Classical_models contains: 
   a. some classical pretrained models .sav files
 5. Deep_learning_models contain all the deep learning models and their assoicated code. 
