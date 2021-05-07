@@ -1,11 +1,11 @@
 Steps of Execution:
-Input_Read.py : This file perform reading the audio files with labels corresponding to number of genres.
+Input_Read.ipynb : This file perform reading the audio files with labels corresponding to number of genres.
 
-Segment_Audio.py : This file perform clipping of audio into small segment/clip of duration depending on window size and overlap.
+Segment_Audio.ipynb : This file perform clipping of audio into small segment/clip of duration depending on window size and overlap.
 
-Feature_Extraction.py : This file contain feature extraction techniques (STFT, Melspectrogram and MFCC). Whichever you want to extract, just change the name of the function 'to_stft' instead.
+Feature_Extraction.ipynb : This file contain feature extraction techniques (STFT, Melspectrogram and MFCC). Whichever you want to extract, just change the name of the function 'to_stft' instead.
 
-Split_Data.py : This file perform splitting of data into train, valid and test data.
+Test_Train_split.ipynb : This file perform splitting of data into train, valid and test data.
 
 CNN-LSTM.ipynb : This file contain CRNN model. 
 
