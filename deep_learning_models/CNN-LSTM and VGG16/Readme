@@ -1,5 +1,5 @@
 Steps of Execution:
-Input_Rad.py : This file perform reading the audio files with labels corresponding to number of genres.
+Input_Read.py : This file perform reading the audio files with labels corresponding to number of genres.
 
 Segment_Audio.py : This file perform clipping of audio into small segment/clip of duration depending on window size and overlap.
 
