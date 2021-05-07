@@ -9,5 +9,5 @@ Test_Train_split.ipynb : This file perform splitting of data into train, valid a
 
 CNN-LSTM.ipynb : This file contain CRNN model. 
 
-VGG16_Model.ipynb : This file contain VGG16 model. 
+VGG16.ipynb : This file contain VGG16 model. 
 
